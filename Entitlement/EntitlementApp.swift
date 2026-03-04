@@ -21,6 +21,7 @@ struct EntitlementApp: App {
                 privacyManager.startMonitoring(externalMotion: true)
                 powerThrottler.attach(to: privacyManager, arSession: privacyManager.arSession)
                 powerThrottler.start()
+            }
         }
     }
 }
