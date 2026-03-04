@@ -12,7 +12,7 @@
 		4EE1A6092D954CE9007D655E /* StosSign in Frameworks */ = {isa = PBXBuildFile; productRef = 4EE1A6082D954CE9007D655E /* StosSign */; };
 		EN_LPROJ_BUILD /* en.lproj in Resources */ = {isa = PBXBuildFile; fileRef = EN_LPROJ /* en.lproj */; };
 		ZH_LPROJ_BUILD /* zh-Hans.lproj in Resources */ = {isa = PBXBuildFile; fileRef = ZH_LPROJ /* zh-Hans.lproj */; };
-		123456ABCDEF123456ABCDED /* PrivacyScreen in Frameworks */ = {isa = PBXBuildFile; fileRef = 123456ABCDEF123456ABCDEE /* PrivacyScreen */; };
+		123456ABCDEF123456ABCDED /* PrivacyScreen in Frameworks */ = {isa = PBXBuildFile; productRef = 123456ABCDEF123456ABCDEE /* PrivacyScreen */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
