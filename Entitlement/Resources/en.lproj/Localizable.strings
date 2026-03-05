@@ -6,6 +6,7 @@ err = "ERROR";
 ok = "OK";
 refresh = "Refresh";
 loginfirst = "Please Login first (OR your login status is bad)";
+nulappid = "No AppID found";
 // From AnisetteDataHelper.swift
 noanisetteurl = "No Anisette Server is found. (https://ani.sidestore.io By Default)";
 novalidurlsgiven = "Apple didn't give valid URLs. Please try again later";

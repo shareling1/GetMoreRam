@@ -89,6 +89,7 @@ class AppIDViewModel : ObservableObject {
         await MainActor.run {
             for id in ids {
                 appIDs.append(AppIDModel(appID: id))
+                    .privacySensitive(level: .medium)
             }
         }
     }

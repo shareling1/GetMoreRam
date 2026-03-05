@@ -6,6 +6,7 @@ err = "错误";
 ok = "确定";
 refresh = "刷新";
 loginfirst = "请你先登录喵~(如果已经登录就是出错了)";
+nulappid = "没有找到应用ID喵~";
 // From AnisetteDataHelper.swift
 noanisetteurl = "找不到Anisette服务器喵，默认是(https://ani.sidestore.io)喵~";
 novalidurlsgiven = "苹果没有给出有效的URL喵~，请稍后再试喵~";
