@@ -6,6 +6,7 @@
 //
 import SwiftUI
 import StosSign
+import PrivacyScreen
 
 class AppIDModel : ObservableObject, Hashable {
     static func == (lhs: AppIDModel, rhs: AppIDModel) -> Bool {

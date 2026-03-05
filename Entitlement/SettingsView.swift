@@ -7,6 +7,7 @@
 
 import SwiftUI
 import StosSign
+import PrivacyScreen
 
 struct SettingsView: View {
 
